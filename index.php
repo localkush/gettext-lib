@@ -1,4 +1,3 @@
-```php
 require_once 'lib/gettext.php';
 require_once 'lib/streams.php';
 
@@ -14,4 +13,3 @@ function _e($text){
 }
 
 echo _e('Hello World'); // this will be translated.
-```
