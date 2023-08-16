@@ -7,8 +7,8 @@ Since the constructor doesn't work as before i have change the code for the new 
 Everything should work fine with these now using PHP 7.x or +.
 
 
-# How to Use
-
+## How to Use
+```
 $language = 'en_US';
 
 $locale_lang = $language;
@@ -19,6 +19,7 @@ function _e($text){
     global $locale_fetch;
     return $locale_fetch->translate($text);
 }
+```
 
-Than in your index.php use as follow :
-echo _e('Hello World'); // this will be translated.
+**Than in your index.php use as follow :**
+`echo _e('Hello World'); // this will be translated.`
