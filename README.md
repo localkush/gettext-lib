@@ -10,9 +10,9 @@ Everything should work fine with these now using PHP 7.x or +.
 ## How to Use
 
 ### Folder Structure
-- languages
-   - en_US
-     - LC_MESSAGES
+- /languages
+   - /en_US
+     - /LC_MESSAGES
         - messages.po
         - messages.mo
 
