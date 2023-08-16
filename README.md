@@ -22,4 +22,4 @@ function _e($text){
 ```
 
 **Than in your index.php use as follow :**
-`echo _e('Hello World'); // this will be translated.`
+`php echo _e('Hello World'); // this will be translated.`
