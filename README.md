@@ -8,7 +8,7 @@ Everything should work fine with these now using PHP 7.x or +.
 
 
 ## How to Use
-```
+```php
 $language = 'en_US';
 
 $locale_lang = $language;
