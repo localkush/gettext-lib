@@ -15,7 +15,8 @@ Everything should work fine with these now using PHP 7.x or +.
      - /LC_MESSAGES
         - messages.po
         - messages.mo
-
+      
+### Configuration Code
 ```php
 require_once 'lib/gettext.php';
 require_once 'lib/streams.php';
