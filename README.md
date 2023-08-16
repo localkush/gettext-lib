@@ -1,4 +1,4 @@
-# gettext-lib
+# gettext-lib (updated)
 gettext library (corrected for PHP7+)
 
 PHP-GetText Library (ver 2015) updated for new PHP7.x+.
