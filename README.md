@@ -26,12 +26,6 @@ require_once 'lib/gettext.php';
 require_once 'lib/streams.php';
 ```
 
-### Composer (Coming Soon)
-
-```bash
-composer require your-vendor/php-gettext
-```
-
 ## Updates for PHP 8.x+
 
 The library has been modernized with several improvements:
