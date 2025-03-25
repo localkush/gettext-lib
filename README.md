@@ -139,5 +139,5 @@ PHP-gettext is free software; you can redistribute it and/or modify it under the
 ## Credits
 
 - Original PHP-Gettext library by Danilo Segan and Nico Kaiser
-- PHP 7.x+ updates by various contributors
-- PHP 8.x+ modernization by this project
+- PHP 7.x+ updates by Charles Wilkin aka localkush@Github
+- PHP 8.x+ modernization by Charles Wilkin aka localkush@Github
