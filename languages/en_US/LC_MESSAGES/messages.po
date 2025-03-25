@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PHP-Gettext Library Demo\n"
+"POT-Creation-Date: 2023-03-25 12:00+0000\n"
+"PO-Revision-Date: 2023-03-25 12:00+0000\n"
+"Last-Translator: Example <example@example.com>\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Hello World"
+msgstr "Hello World (Translated)"
+
+msgid "One item"
+msgid_plural "Many items"
+msgstr[0] "One item (Translated)"
+msgstr[1] "Many items (Translated)"
+
+msgctxt "menu"
+msgid "View"
+msgstr "View (Menu Context)"
+
+msgctxt "items"
+msgid "One item"
+msgid_plural "Many items"
+msgstr[0] "One item in context (Translated)"
+msgstr[1] "Many items in context (Translated)"
+
+msgid "PHP-Gettext Library Demo"
+msgstr "PHP-Gettext Library Demo (Translated)"
+
+msgid "Basic Translation"
+msgstr "Basic Translation (Translated)"
+
+msgid "Plural Forms"
+msgstr "Plural Forms (Translated)"
+
+msgid "Context-based Translation"
+msgstr "Context-based Translation (Translated)"
+
+msgid "Context-based Plural Forms"
+msgstr "Context-based Plural Forms (Translated)" 
